@@ -3,6 +3,7 @@
 ----------------------------------------
 Predict canada's per capita income in year 2020. There is an exercise folder here on github at same level as this notebook, 
 download that and you will find canada_per_capita_income.csv file. 
+
 Using this build a regression model and predict the per capita income fo canadian citizens in year 2020
 
 2.Hiring candidate's salary prediction
@@ -12,3 +13,11 @@ Dataset contains hiring statics for a firm such as experience of candidate, his 
 a) 2 yr experience, 9 test score, 6 interview score
 
 b) 12 yr experience, 10 test score, 10 interview score
+
+3.Home price prediction
+---------------------------
+Build a predictor function to predict price of a home that can take sqr foot of the home and name of the township as an input
+
+1) with 2800 sqr ft area in robbinsville
+
+2) with 3400 sqr ft area in west windsor¶
