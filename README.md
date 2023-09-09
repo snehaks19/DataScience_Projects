@@ -43,3 +43,9 @@ Finding Factors Affecting Employee Retention Rate
 4)Built logistic regression model using variables that were narrowed down in Step 1
 
 5)Measured the accuracy of the model
+
+6.Digit Prediction
+--------------------
+imported data set from scilearn_datasets
+
+showed how to use sklearn logisticregression class to solve multiclass classification problem to predict hand written digit
