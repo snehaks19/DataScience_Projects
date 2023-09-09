@@ -16,8 +16,30 @@ b) 12 yr experience, 10 test score, 10 interview score
 
 3.Home price prediction
 ---------------------------
-Build a predictor function to predict price of a home that can take sqr foot of the home and name of the township as an input
+Build a predictor function to predict the price of a home that can take the sqr foot of the home and the name of the township as an input
 
-1) with 2800 sqr ft area in robbinsville
+1) with a 2800 sqr ft area in Robbinsville
 
-2) with 3400 sqr ft area in west windsor¶
+2) with 3400 sqr ft area in west Windsor
+
+4.Insurance
+------------
+Predicting if a person would buy life insurance based on his age using logistic regression
+
+The dataset contains 2 columns with their age and whether they take life insurance or not
+
+This is a binary logistic regression problem as there are only two possible outcomes (i.e. if person buys insurance or he/she doesn't).
+
+5.HR Analytics
+---------------
+Finding Factors Affecting Employee Retention Rate 
+
+1)done some exploratory data analysis to figure out which variables have a direct and clear impact on employee retention (i.e. whether they leave the company or continue to work)
+
+2)Plotted bar charts showing the impact of employee salaries on retention
+
+3)Plotted bar charts showing a correlation between department and employee retention
+
+4)Built logistic regression model using variables that were narrowed down in Step 1
+
+5)Measured the accuracy of the model
