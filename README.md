@@ -49,3 +49,17 @@ Finding Factors Affecting Employee Retention Rate
 imported data set from scilearn_datasets
 
 showed how to use sklearn logisticregression class to solve multiclass classification problem to predict hand written digit
+
+7.Iris Flower Classification
+----------------------------
+Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need to figure out accuracy of your model and use that to predict different samples in your test dataset. In iris dataset there are 150 samples containing following features,
+
+Sepal Length
+Sepal Width
+Petal Length
+Petal Width
+Using above 4 features you will clasify a flower in one of the three categories,
+
+Setosa
+Versicolour
+Virginica
