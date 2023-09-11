@@ -1,20 +1,20 @@
 # DataScience_Projects
-1.Canada percapita income prediction
+1. Canada percapita income prediction
 ----------------------------------------
 Predict canada's per capita income in year 2020. There is an exercise folder here on github at same level as this notebook, 
-download that and you will find canada_per_capita_income.csv file. 
+download that and you will find Canada_per_capita_income.csv file. 
 
 Using this build a regression model and predict the per capita income fo canadian citizens in year 2020
 
-2.Hiring candidate's salary prediction
+2. Hiring candidate's salary prediction
 ----------------------------------------
 Dataset contains hiring statics for a firm such as experience of candidate, his written test score and personal interview score. Based on these 3 factors, HR will decide the salary. Given this data, you need to build a machine learning model for HR department that can help them decide salaries for future candidates. Using this predict salaries for following candidates,
 
-a) 2 yr experience, 9 test score, 6 interview score
+a) 2 years experience, 9 test scores, 6 interview scores
 
-b) 12 yr experience, 10 test score, 10 interview score
+b) 12 yr experience, 10 test score, 10 interview scores
 
-3.Home price prediction
+3. Home price prediction
 ---------------------------
 Build a predictor function to predict the price of a home that can take the sqr foot of the home and the name of the township as an input
 
@@ -22,15 +22,15 @@ Build a predictor function to predict the price of a home that can take the sqr 
 
 2) with 3400 sqr ft area in west Windsor
 
-4.Insurance
+4. Insurance
 ------------
 Predicting if a person would buy life insurance based on his age using logistic regression
 
 The dataset contains 2 columns with their age and whether they take life insurance or not
 
-This is a binary logistic regression problem as there are only two possible outcomes (i.e. if person buys insurance or he/she doesn't).
+This is a binary logistic regression problem as there are only two possible outcomes (i.e. if a person buys insurance or he/she doesn't).
 
-5.HR Analytics
+5. HR Analytics
 ---------------
 Finding Factors Affecting Employee Retention Rate 
 
@@ -44,22 +44,31 @@ Finding Factors Affecting Employee Retention Rate
 
 5)Measured the accuracy of the model
 
-6.Digit Prediction
+6. Digit Prediction
 --------------------
 imported data set from scilearn_datasets
 
-showed how to use sklearn logisticregression class to solve multiclass classification problem to predict hand written digit
+showed how to use sklearn logistic regression class to solve multiclass classification problems to predict handwritten digit
 
-7.Iris Flower Classification
+7. Iris Flower Classification
 ----------------------------
-Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need to figure out accuracy of your model and use that to predict different samples in your test dataset. In iris dataset there are 150 samples containing following features,
+Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need to figure out the accuracy of your model and use that to predict different samples in your test dataset. In the iris dataset, there are 150 samples containing the following features,
 
 Sepal Length
 Sepal Width
 Petal Length
 Petal Width
-Using above 4 features you will clasify a flower in one of the three categories,
+Using the above 4 features you will classify a flower into one of the three categories,
 
 Setosa
 Versicolour
 Virginica
+
+8. Salary Prediction
+-----------------------
+Predict the salary of employees in 3 companies based on their job and degree is greater than 100K or not.
+
+9. Titanic survivors' prediction
+-----------------------------------
+Predict the survival of the passengers based on their age,sex, passenger class, and Fare for onboarding Titanic ship
+
