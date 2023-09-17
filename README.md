@@ -22,7 +22,12 @@ Build a predictor function to predict the price of a home that can take the sqr 
 
 2) with 3400 sqr ft area in west Windsor
 
-4. Insurance
+4.Linear Regression Single Variable
+-------------------------------------
+Predicting salary based on years of experience
+The "Salary Prediction Model Based on Years of Experience" project is an endeavor aimed at utilizing data-driven techniques and machine learning to develop a predictive model that estimates an individual's salary based on their years of professional experience. This project holds significance in both the corporate world and the field of human resources, as it offers valuable insights into compensation trends and helps organizations make informed decisions regarding employee salaries.
+
+5. Insurance
 ------------
 Predicting if a person would buy life insurance based on his age using logistic regression
 
@@ -30,7 +35,7 @@ The dataset contains 2 columns with their age and whether they take life insuran
 
 This is a binary logistic regression problem as there are only two possible outcomes (i.e. if a person buys insurance or he/she doesn't).
 
-5. HR Analytics
+6. HR Analytics
 ---------------
 Finding Factors Affecting Employee Retention Rate 
 
@@ -44,13 +49,13 @@ Finding Factors Affecting Employee Retention Rate
 
 5)Measured the accuracy of the model
 
-6. Digit Prediction
+7. Digit Prediction
 --------------------
 imported data set from scilearn_datasets
 
 showed how to use sklearn logistic regression class to solve multiclass classification problems to predict handwritten digit
 
-7. Iris Flower Classification
+8. Iris Flower Classification
 ----------------------------
 Use sklearn.datasets iris flower dataset to train your model using logistic regression. You need to figure out the accuracy of your model and use that to predict different samples in your test dataset. In the iris dataset, there are 150 samples containing the following features,
 
@@ -64,11 +69,11 @@ Setosa
 Versicolour
 Virginica
 
-8. Salary Prediction
+9. Salary Prediction
 -----------------------
 Predict the salary of employees in 3 companies based on their job and degree is greater than 100K or not.
 
-9. Titanic survivors' prediction
+10. Titanic survivors' prediction
 -----------------------------------
 Predict the survival of the passengers based on their age,sex, passenger class, and Fare for onboarding Titanic ship
 
